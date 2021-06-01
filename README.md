@@ -1,6 +1,7 @@
 
 
-❮img src="kishnptll.jpg" ❯
+![](images/kishnptll/kishnptll.jpg)
+
 <p align="center">
   <a href="https://www.happinesssisfree.com">Blog</a> •
   <a href="https://qwiklabs.com/public_profiles/2bfcdd5f-2c49-4f39-897b-95f4e1828c7c">Qwiklabs </a> •
