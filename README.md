@@ -1,10 +1,9 @@
 
 ![QOFG1125 1](https://user-images.githubusercontent.com/84789603/120298239-8a646000-c2e7-11eb-95ca-49fea5623647.JPEG)
 
-
 <h2 align="center">A Passionate Developer from INDIA</h2>
-<h3 align="left"> myBlog: <a href="https://www.happinesssisfree.com">TheGoodQuotes</a> </h3>
-<h2 align="left">Connect with me:</h2>
+<h3 align="left"> MyBlog: <a href="https://www.happinesssisfree.com">TheGoodQuotes</a> </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="center">
   <a href="https://qwiklabs.com/public_profiles/2bfcdd5f-2c49-4f39-897b-95f4e1828c7c">Qwiklabs </a> •
@@ -14,7 +13,7 @@
   <a href="https://facebook.com/kishnptll">Facebook </a> 
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
