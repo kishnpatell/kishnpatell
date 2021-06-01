@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">A passionate developer from India</h1>
+<h1 align="center">A Passionate Developer from INDIA</h1>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
