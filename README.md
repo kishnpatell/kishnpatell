@@ -1,13 +1,12 @@
 
 ![kishnptll](https://user-images.githubusercontent.com/84789603/120288136-84698180-c2dd-11eb-8730-2e893e50b803.jpg)
 
-
-<h1 align="center">A Passionate Developer from INDIA</h1>
-
+<h2 align="center">A Passionate Developer from INDIA</h2>
+<h3 align="left"> myBlog: <a href="https://www.happinesssisfree.com">TheGoodQuotes</a> </h3>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <p align="center">
-   <a href="https://qwiklabs.com/public_profiles/2bfcdd5f-2c49-4f39-897b-95f4e1828c7c">Qwiklabs </a> •
+  <a href="https://qwiklabs.com/public_profiles/2bfcdd5f-2c49-4f39-897b-95f4e1828c7c">Qwiklabs </a> •
   <a href="https://instagram.com/kishnptll">Instagram</a> •
   <a href="https://twitter.com/kishnptll">Twitter</a> •
   <a href="https://snapchat.com/kishan8022">Snapchat</a> •
