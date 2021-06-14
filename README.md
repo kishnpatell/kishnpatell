@@ -1,5 +1,5 @@
 
-![QOFG1125 1](https://user-images.githubusercontent.com/84789603/120298239-8a646000-c2e7-11eb-95ca-49fea5623647.JPEG)
+
 
 <h2 align="center">A Passionate Developer</h2>
 <h3 align="left"> MyBlog: <a href="https://www.happinesssisfree.com">TheGoodQuotes</a> </h3>
