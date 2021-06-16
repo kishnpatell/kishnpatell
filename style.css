@@ -1,0 +1,92 @@
+<html>
+<style>
+    .center {
+      
+      margin: 0 auto;
+      
+    }
+
+    .awesome {
+      
+     
+      
+      margin: 0 auto;
+      text-align: center;
+      
+      color:#313131;
+      font-size:17px;
+      font-weight: bold;
+      position: absolute;
+      -webkit-animation:colorchange 10s infinite alternate;
+      
+      
+    }
+
+    @-webkit-keyframes colorchange {
+      0% {
+        
+        color: blue;
+      }
+      
+      5% {
+        
+        color: red;
+      }
+      
+      10% {
+        
+        color: green;
+      }
+      
+      15% {
+        
+        color: yellow;
+      }
+      
+      20% {
+        
+        color: gray;
+      }
+      
+      25% {
+        
+        color: pink;
+      }
+      
+      30% {
+        
+        color: white;
+      }
+      
+      35% {
+        
+        color: brown;
+      }
+      40% {
+     
+        color: purple;
+      }
+      
+      45% {
+     
+        color: orange;
+      }
+      
+      50% {
+        
+        color: #418DCD;
+      }
+    }
+	</style>
+
+<body>
+
+	<div class='center'>
+
+     <h2 class="awesome"><img src="wave.gif" width="30"> <strong>HELLO WORLD!, I'm KishanPatel a Passionate WEB | APP(IOS/AND) Developer,</strong> </img><br>
+     </h2>
+	</div>
+	
+</body>
+</html>
+
