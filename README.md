@@ -1,4 +1,9 @@
-<h2><img src="wave.gif" width="30"> <strong>HELLO WORLD!, I'm KishanPatel a Passionate WEB | APP(IOS/AND) Developer,</strong> </img></h2>
+
+<div align="center">
+    <img src="example.svg"  alt="css-in-readme">
+</div>
+ 
+ <h2><img src="wave.gif" width="30"> <strong>HELLO WORLD!, I'm KishanPatel a Passionate WEB | APP(IOS/AND) Developer,</strong> </img></h2>
 
 
 <h3 align="left"> MyBlog: <a href="https://www.happinesssisfree.com">TheGoodQuotes,</a> </h3>
