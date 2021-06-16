@@ -4,66 +4,19 @@
             <style>
             h1 {
                 color: red;
-                -webkit-animation:colorchange 10s infinite alternate;
+                animation: mymove 2s infinite;
             }
 
-            @keyframes colorchange
-                0% {
-        
-        color: blue;
-      }
-      
-      5% {
-        
-        color: red;
-      }
-      
-      10% {
-        
-        color: green;
-      }
-      
-      15% {
-        
-        color: yellow;
-      }
-      
-      20% {
-        
-        color: gray;
-      }
-      
-      25% {
-        
-        color: pink;
-      }
-      
-      30% {
-        
-        color: white;
-      }
-      
-      35% {
-        
-        color: brown;
-      }
-      40% {
-     
-        color: purple;
-      }
-      
-      45% {
-     
-        color: orange;
-      }
-      
-      50% {
-        
-        color: #418DCD;
-      }
-    }
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
             </style>
-            <h1>HELLO WORLD!, I'm KishanPatel a Passionate WEB | APP(IOS/AND) Developer,</h1>
+            <h1>HELLO WORLD!,I'm KishanPatel a Passionate WEB | APP(IOS/AND) Developer,</h1>
         </div>
     </foreignObject>
 </svg>
