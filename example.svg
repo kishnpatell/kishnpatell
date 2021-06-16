@@ -1,22 +1,90 @@
 <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
+           <style>
+    .center {
+      
+      margin: 0 auto;
+      
+    }
 
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
-            </style>
-            <h1>HELLO WORLD!,I'm KishanPatel a Passionate WEB | APP(IOS/AND) Developer,</h1>
+    .awesome {
+      
+     
+      
+      margin: 0 auto;
+      text-align: center;
+      
+      color:#313131;
+      font-size:17px;
+      font-weight: bold;
+      position: absolute;
+      -webkit-animation:colorchange 10s infinite alternate;
+      
+      
+    }
+
+    @-webkit-keyframes colorchange {
+      0% {
+        
+        color: blue;
+      }
+      
+      5% {
+        
+        color: red;
+      }
+      
+      10% {
+        
+        color: green;
+      }
+      
+      15% {
+        
+        color: yellow;
+      }
+      
+      20% {
+        
+        color: gray;
+      }
+      
+      25% {
+        
+        color: pink;
+      }
+      
+      30% {
+        
+        color: white;
+      }
+      
+      35% {
+        
+        color: brown;
+      }
+      40% {
+     
+        color: purple;
+      }
+      
+      45% {
+     
+        color: orange;
+      }
+      
+      50% {
+        
+        color: #418DCD;
+      }
+    }
+	</style>
+           <div class='center'>
+
+     <h2 class="awesome"><img src="wave.gif" width="30"> <strong>HELLO WORLD!, I'm KishanPatel a Passionate WEB | APP(IOS/AND) Developer,</strong> </img><br>
+     </h2>
+	</div>
         </div>
     </foreignObject>
 </svg>
