@@ -2,7 +2,7 @@
     <img src="example.svg"  alt="css-in-readme">
 </div>
  
-<h3 align="left"> MyBlog: <a href="https://happinesssisfree.com">TheGoodQuotes</a> </h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
