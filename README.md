@@ -2,7 +2,7 @@
     <img src="example.svg"  alt="css-in-readme">
 </div>
  
-<h3> VISIT:> <a href="https://kishanpatel.tech"> Portfolio.tech </a> | 
+<h3> VISIT:> <a href="https://kishanpatel.tech"> KishanPatel.tech </a> | 
           <a href="https://thegoodquotess.blogspot.com"> theGoodQuotes </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
