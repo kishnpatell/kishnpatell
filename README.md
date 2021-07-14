@@ -1,20 +1,27 @@
 <div align="center">
     <img src="example.svg"  alt="css-in-readme">
 </div>
+ <hr>
  
-<h3> VISIT:> <a href="https://kishanpatel.tech"> KishanPatel.tech </a> | 
-          <a href="https://thegoodquotess.blogspot.com"> theGoodQuotes </a>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3> VISIT :) <a href="https://kishanpatel.tech"> KishanPatel.tech </a> | 
+          <a href="https://thegoodquotess.blogspot.com"> theGoodQuotes </a> </h3>
+ <hr>
+ 
+<h3 align="left">Follow & Connect with me :) </h3>
+
 <p align="center">
   <a href="https://qwiklabs.com/public_profiles/2bfcdd5f-2c49-4f39-897b-95f4e1828c7c">Qwiklabs </a> •
   <a href="https://instagram.com/kishnptll">Instagram</a> •
   <a href="https://twitter.com/kishnptll">Twitter</a> •
   <a href="https://www.snapchat.com/add/kishan8022">Snapchat</a> •
-  <a href="https://facebook.com/kishnptll">Facebook </a> 
-</p>
+  <a href="https://facebook.com/kishnptll">Facebook </a> •
+  <a href="https://linkedin.com/in/kishnptll/"> Linkedin </a> •
+  <a href="https://www.youtube.com/channel/UCPghypjzxDj_gSj0yYX9lbw/"> Youtube</a>
+    </p>		
+    
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :)</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp
