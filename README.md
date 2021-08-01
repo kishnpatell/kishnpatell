@@ -10,14 +10,13 @@
 <h3 align="left">Follow & Connect with me :) </h3>
 
 <p align="center">
-  <a href="https://qwiklabs.com/public_profiles/2bfcdd5f-2c49-4f39-897b-95f4e1828c7c">Qwiklabs </a> •
-  <a href="https://instagram.com/kishnptll">Instagram</a> •
-  <a href="https://twitter.com/kishnptll">Twitter</a> •
-  <a href="https://www.snapchat.com/add/kishan8022">Snapchat</a> •
-  <a href="https://facebook.com/kishnptll">Facebook </a> •
-  <a href="https://linkedin.com/in/kishnptll/"> Linkedin </a> •
-  <a href="https://www.youtube.com/channel/UCPghypjzxDj_gSj0yYX9lbw/"> Youtube</a>
-    </p>		
+  <a href="https://qwiklabs.com/public_profiles/2bfcdd5f-2c49-4f39-897b-95f4e1828c7c">  <img src="qwiklabs.png" width="40">  </a>  &nbsp
+  <a href="https://linkedin.com/in/kishnptll/"> <img src="linkedin.png" width="40">  </a>  &nbsp
+  <a href="https://instagram.com/kishnptll"> <img src="instagram-logo.png" width="40"></a>  &nbsp
+  <a href="https://twitter.com/kishnptll"> <img src="twitter.png" width="40"></a>  &nbsp
+  <a href="https://www.snapchat.com/add/kishan8022"> <img src="snapchat-logo.png" width="40"></a>  &nbsp
+  <a href="https://facebook.com/kishnptll"> <img src="facebook.png" width="40"> </a> 
+</p>		
     
 <hr>
 
