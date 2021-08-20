@@ -4,7 +4,8 @@
  <hr>
  
 <h3> VISIT :) <a href="https://kishanpatel.tech"> KishanPatel.tech </a> | 
-          <a href="https://thegoodquotess.blogspot.com"> theGoodQuotes.blog </a> </h3>
+              <a href="https://thegoodquotess.blogspot.com"> theGoodQuotes.blog </a> |
+              <a href="https://sptfy.com/thegoodmusic"> theGoodMusic.sptfy </a></h3>
  <hr>
  
 <h3 align="left">Follow & Connect with me :) </h3>
