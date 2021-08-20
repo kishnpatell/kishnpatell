@@ -3,9 +3,9 @@
 </div>
  <hr>
  
-<h3> VISIT :) <a href="https://kishanpatel.tech"> KishanPatel.tech </a> | 
-              <a href="https://thegoodquotess.blogspot.com"> theGoodQuotes.blog </a> |
-              <a href="https://sptfy.com/thegoodmusic"> theGoodMusic.sptfy </a></h3>
+<div align="center"> <a href="https://kishanpatel.tech"> <img src="tech.jpg" width="60"> </a> | 
+              <a href="https://thegoodquotess.blogspot.com"> <img src="blog.jpeg" width="60"> </a> |
+              <a href="https://sptfy.com/thegoodmusic"> <img src="spotify.jpeg" width="60"></a></div>
  <hr>
  
 <h3 align="left">Follow & Connect with me :) </h3>
