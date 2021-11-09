@@ -1,13 +1,13 @@
 <div align="center">
     <img src="example.svg"  alt="css-in-readme">
 </div>
-<hr>
+
 <div align="center">
     <h4><b>Visit ↯</b></h4>
     <a href="https://thegoodquotess.blogspot.com"> <img src="blog.jpeg" width="210"> </a> &nbsp
     <a href="https://sptfy.com/thegoodmusic"> <img src="spotify.jpeg" width="210"></a>
 </div>
-<hr>
+
 <div align="center"> 
 <h4>Social Media ↯</h4>
   <a href="https://qwiklabs.com/public_profiles/2bfcdd5f-2c49-4f39-897b-95f4e1828c7c">  <img src="qwiklabs.png" width="48">  </a>  &nbsp
@@ -16,8 +16,10 @@
   <a href="https://twitter.com/kishnptll"> <img src="twitter.png" width="48"></a>  &nbsp
   <a href="https://www.snapchat.com/add/kishan8022"> <img src="snapchat-logo.png" width="48"></a>  &nbsp
   <a href="https://facebook.com/kishnptll"> <img src="facebook.png" width="48"> </a> 		    
-<hr>
-<h4 align="center">Skill's ↯</h4>
+</div>
+
+<div align="center">
+<h4>Skill's ↯</h4>
 <p align="center"> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="28" height="28"/> </a> &nbsp
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="28" height="28"/> </a> &nbsp
@@ -31,6 +33,7 @@
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="28" height="28"/> </a> &nbsp
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/> </a> 
 
+</div>
  
 
 
