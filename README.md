@@ -8,11 +8,8 @@
     <a href="https://sptfy.com/thegoodmusic"> <img src="spotify.jpeg" width="210"></a>
   </div>
     
-## A bit About me…
-    
-  <p> An enthusiastic learner with highly motivated and passionate about Database Management System, Software Development, Web Development and Web Design.</p>
-  <p> In a way to be a proficient in languages including - HTML, Python, C, C++, Java, Javascript, html, Css, Django, Bootstrap and MySql.
-  </p>
+## me…
+   
   <p>• Member at <a href="https://gdg.community.dev/gdg-ahmedabad/">Google Developer Group Ahmedabad (GDGAHM)  </a> 
   </p>
   <p>• Developer profile <a href="https://g.dev/KishanPatel/"> G.Dev/KishanPatel  </a>
