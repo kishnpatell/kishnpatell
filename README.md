@@ -10,20 +10,20 @@
     
 ## A bit About me…
     
-  <p> An enthusiastic learner with highly motivated and passionate about Database Management System, Software Development, Web Development and Web Design.
+  <p> An enthusiastic learner with highly motivated and passionate about Database Management System, Software Development, Web Development and Web Design.</p>
+  <p> In a way to be a proficient in languages including - HTML, Python, C, C++, Java, Javascript, html, Css, Django, Bootstrap and MySql.
   </p>
-  <p><b> In a way to be a proficient in languages including - HTML, Python, C, C++, Java, Javascript, html, Css, Django, Bootstrap and MySql.
+  <p>• Member at <a href="https://gdg.community.dev/gdg-ahmedabad/">Google Developer Group Ahmedabad (GDGAHM)  </a> 
   </p>
-  <p><b>• Member at <a href="https://gdg.community.dev/gdg-ahmedabad/">Google Developer Group Ahmedabad (GDGAHM)  </a> 
-  </p>
-  <p><b>• Developer profile <a href="https://g.dev/KishanPatel/"> G.Dev/KishanPatel  </a>
+  <p>• Developer profile <a href="https://g.dev/KishanPatel/"> G.Dev/KishanPatel  </a>
   </p>
   <p>• Skill Badges from GoogleCloud ->  <a href="https://www.qwiklabs.com/public_profiles/2bfcdd5f-2c49-4f39-897b-95f4e1828c7c">  GoogleCloud (Qwiklabs) </a>
   </p>
-  <p><b>• ContactMe: <a href="mailto:kishnptll@gmail.com">KishnPtll@gmail.com </a>
+  <p>• ContactMe: <a href="mailto:kishnptll@gmail.com">KishnPtll@gmail.com </a>
   </p>
     
-### Social Media ↯
+## Social Media ↯
+    
 <div>    
   <a href="https://qwiklabs.com/public_profiles/2bfcdd5f-2c49-4f39-897b-95f4e1828c7c">  <img src="qwiklabs.png" width="48"> </a>
   <a href="https://linkedin.com/in/kishnptll/"> <img src="linkedin.png" width="48">  </a>  
