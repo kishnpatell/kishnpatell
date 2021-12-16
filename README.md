@@ -8,8 +8,7 @@
     <a href="https://sptfy.com/thegoodmusic"> <img src="spotify.jpeg" width="210"></a>
   </div>
     
-## me…
-   
+<hr> 
   <p>• Member at <a href="https://gdg.community.dev/gdg-ahmedabad/">Google Developer Group Ahmedabad (GDGAHM)  </a> 
   </p>
   <p>• Developer profile <a href="https://g.dev/KishanPatel/"> G.Dev/KishanPatel  </a>
@@ -18,7 +17,8 @@
   </p>
   <p>• ContactMe: <a href="mailto:kishnptll@gmail.com">KishnPtll@gmail.com </a>
   </p>
-    
+<hr>
+
 ## Social Media ↯
     
 <div>    
