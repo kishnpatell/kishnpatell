@@ -1,12 +1,6 @@
 <div align="center">
     <img src="back.svg"  alt="css-in-readme">
 </div>
-
-## Visit ↯ 
-  <div>
-    <a href="https://thegoodquotess.blogspot.com"> <img src="blog.jpeg" width="210"> </a>
-    <a href="https://sptfy.com/thegoodmusic"> <img src="spotify.jpeg" width="210"></a>
-  </div>
     
 <hr> 
   <p>• Member at <a href="https://gdg.community.dev/gdg-ahmedabad/">Google Developer Group Ahmedabad (GDGAHM)  </a> 
