@@ -1,17 +1,6 @@
 <div align="center">
     <img src="back.svg"  alt="css-in-readme">
 </div>
-    
-<hr> 
-  <p>• Member at <a href="https://gdg.community.dev/gdg-ahmedabad/">Google Developer Group Ahmedabad (GDGAHM)  </a> 
-  </p>
-  <p>• Developer profile <a href="https://g.dev/KishanPatel/"> G.Dev/KishanPatel  </a>
-  </p>
-  <p>• Skill Badges from GoogleCloud ->  <a href="https://www.qwiklabs.com/public_profiles/2bfcdd5f-2c49-4f39-897b-95f4e1828c7c">  GoogleCloud (Qwiklabs) </a>
-  </p>
-  <p>• ContactMe: <a href="mailto:kishnptll@gmail.com">KishnPtll@gmail.com </a>
-  </p>
-<hr>
 
 ## Social Media ↯
     
